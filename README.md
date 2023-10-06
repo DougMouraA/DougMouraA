@@ -8,19 +8,14 @@
 
 </p>&nbsp;
 
-<div  align="center" style="margin-bottom:100px">
-<div>
-<a href="http://www.github.com/DougMouraA"><img src="https://github-readme-streak-stats.herokuapp.com?user=Doug&theme=gruvbox&mode=weekly&hide_border=true" /></a>
- </div>
-<a href=""http://www.github.com/DougMouraA""><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DougMouraA&langs_count=8&layout=compact&hide=css,objective-c,html&hide_border=true&custom_title=Top%20%Languages&theme=gruvbox"/></a>
+
+ <div  align="center" style="margin-bottom:100px">
+  <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=DougMouraA&theme=radical&mode=weekly" />
+   <img align="center" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DougMouraA&layout=compact" />
  </div>
 
- 
  &nbsp;
  &nbsp;
-
-
-#### Main Stack:
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)&nbsp;
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
@@ -32,13 +27,8 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-#### Workstation Tools:
-
 ![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)&nbsp;
-
-&nbsp;
-&nbsp;
 
 ## Contacts:
 
