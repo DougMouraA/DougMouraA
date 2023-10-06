@@ -1,20 +1,24 @@
 
-<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/DougMouraA/DougMouraA/assets/97697928/9acbb44e-98f8-4f83-82f7-c19408c161cd" />
-&nbsp;&nbsp;&nbsp;
+<p align="center">
+  <img src="https://media.tenor.com/Rm3FpH0-0wMAAAAC/salem-cat.gif" alt="Salem Cat GIF" width="350">
+</p>
 
-<p align="center">I ❤️ solve great challenges using tech. <br><br> From backend development using Flask to frontend development using ReactTS, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>full stack mid-level developer</strong> focused on web development.</p>&nbsp;
+
+<p align="center">Olá! Me chamo Douglas Moura. Sou estudante de Ciência da Computação na UERJ e também estudo Engenharia de Software na 42|RIo.
+
+</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=DougMouraA&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-DougMouraA.vercel.app/api/top-langs/?username=DougMouraA&show_icons=true&theme=radical&layout=compact" />
+<div>
+<a href="http://www.github.com/DougMouraA"><img src="https://github-readme-streak-stats.herokuapp.com?user=Doug&theme=gruvbox&mode=weekly&hide_border=true" /></a>
  </div>
+<a href=""http://www.github.com/DougMouraA""><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DougMouraA&langs_count=8&layout=compact&hide=css,objective-c,html&hide_border=true&custom_title=Top%20%Languages&theme=gruvbox"/></a>
+ </div>
+
  
  &nbsp;
  &nbsp;
 
-
-
-## My Skills
 
 #### Main Stack:
 
@@ -41,9 +45,3 @@
 <div> 
 <a href = "mailto:contato.douglasmoura.araujo@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/douglasmoura96/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
-
- 
-
-  
-  
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
